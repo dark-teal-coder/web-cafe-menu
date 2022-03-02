@@ -5,15 +5,18 @@
 - <ins>First Published Date</ins>: 2022-03-02
 - <ins>Last Modified Date</ins>: 2022-03-02
 
-# About Project 
+# Project 
 <ins>Title</ins>: Washington Post WebScraper
 <br />
 <ins>Difficulty</ins>: 
-```html
-<font color="#008080">Easy</font>
-```
+- [x] Beginner
+- [ ] Intermediate
+- [ ] Advanced
 <br />
-<ins>Scale</ins>: Small 
+<ins>Scale</ins>: 
+- [x] Small
+- [ ] Medium
+- [ ] Big
 
 # Description 
 The project uses Python to scrape newspaper article content from [Washington Post](https://www.washingtonpost.com/). The article used here is *["87 percent of websites are tracking you. This new tool will let you run a creepiness check"](https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight/)* and the scraped items are the newspaper article title, author, date and body. The original idea is taken from *["Web scraper to get news article content"](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe)* by [DevProjects](https://www.codementor.io/projects) [@codementor](https://www.codementor.io/@codementor). 
