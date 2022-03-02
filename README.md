@@ -6,9 +6,9 @@
 - <ins>Last Modified Date</ins>: 2022-03-02
 
 # About Project 
-<ins>Title</ins>: Washington Post WebScraper  
+<ins>Title</ins>: Washington Post WebScraper
 <br />
-<ins>Difficulty</ins>: <span style="color: green">Easy</span> 
+<ins>Difficulty</ins>: <font color="green">Easy</font>
 <br />
 <ins>Scale</ins>: Small 
 
