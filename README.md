@@ -6,7 +6,7 @@
 - <ins>Last Modified Date</ins>: 2022-03-02
 
 # Project 
-- <ins>Title</ins>: Washington Post WebScraper
+- <ins>Title</ins>: Washington Post Web Scraper
 - <ins>Difficulty</ins>:
   - [x] Beginner
   - [ ] Intermediate
