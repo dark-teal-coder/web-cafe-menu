@@ -7,7 +7,9 @@
 
 # About Project 
 <ins>Title</ins>: Washington Post WebScraper  
-<ins>Difficulty</ins>: <span style="color: gray">Easy</span> 
+<br />
+<ins>Difficulty</ins>: <span style="color: green">Easy</span> 
+<br />
 <ins>Scale</ins>: Small 
 
 # Description 
