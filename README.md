@@ -8,7 +8,10 @@
 # About Project 
 <ins>Title</ins>: Washington Post WebScraper
 <br />
-<ins>Difficulty</ins>: <font color="#008080">Easy</font>
+<ins>Difficulty</ins>: 
+```html
+<font color="#008080">Easy</font>
+```
 <br />
 <ins>Scale</ins>: Small 
 
