@@ -3,7 +3,6 @@
 # Metadata
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2022-03-02
-- <ins>Last Modified Date</ins>: 2022-03-02
 
 # Project 
 - <ins>Title</ins>: Washington Post Web Scraper
@@ -57,3 +56,5 @@ N/A
 3. Beautiful Soup: Build a Web Scraper With Python: https://realpython.com/beautiful-soup-web-scraper-python/
 ### Solutions: 
 N/A
+
+Last modified date: Mar 02, 2022
