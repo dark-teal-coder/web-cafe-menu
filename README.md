@@ -61,7 +61,3 @@ N/A
 3. Beautiful Soup: Build a Web Scraper With Python: https://realpython.com/beautiful-soup-web-scraper-python/
 #### Solutions: 
 N/A
-
-<br/>
-
-*Last modified date: Mar 02, 2022*
