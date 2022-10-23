@@ -1,4 +1,6 @@
-<!-- This is a README file for a project. -->
+<!-- README file for projects-->
+
+# Washington Post Web Scraper
 
 ## Metadata
 
