@@ -7,14 +7,14 @@
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2022-03-02
 
-## Project 
+## Project
 
-- <ins>Title</ins>: Washington Post Web Scraper
-- <ins>Difficulty</ins>:
+- **Title**: *Washington Post Web Scraper*
+- **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>: 
+- **Scale**:
   - [x] Small
   - [ ] Medium
   - [ ] Big
