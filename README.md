@@ -57,3 +57,7 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 - [87 percent of websites are tracking you. This new tool will let you run a creepiness check.](https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight)
 - [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python)
+
+&nbsp;
+
+*1st Completion Date: Oct 23, 2022*&emsp;
