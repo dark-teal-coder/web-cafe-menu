@@ -49,17 +49,11 @@ If `pip` fails to locate the relevant packages, you may find it at [Python Packa
 ## Credits 
 
 ### Contributors 
-1. [@dark-teal-coder](github.com/dark-teal-coder)
+
+- [@dark-teal-coder](github.com/dark-teal-coder)
 
 ### References 
-#### Lecture Materials:
-N/A
-#### Data: 
-1. 87 percent of websites are tracking you. This new tool will let you run a creepiness check: https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight/
-#### Documentations: 
-N/A
-#### Tutorials: 
-2. XPath Tutorial: https://www.w3schools.com/xml/xpath_intro.asp
-3. Beautiful Soup: Build a Web Scraper With Python: https://realpython.com/beautiful-soup-web-scraper-python/
-#### Solutions: 
-N/A
+
+- [87 percent of websites are tracking you. This new tool will let you run a creepiness check.](https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight)
+- [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python)
