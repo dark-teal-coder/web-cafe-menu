@@ -23,14 +23,14 @@ The ability to horizontally scale Amazon EC2 instances based on demand is an exa
 
 ***Solution 02***
 
-What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO.) 
+What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO.)
 
 - [x] AWS provides options to architect for high availability.
 - [x] AWS can scale resources to changing application demands.
 
 ***Solution 03***
 
-AWS services can relieve a company's IT staff of which of the following IT tasks? (Select TWO.) 
+AWS services can relieve a company's IT staff of which of the following IT tasks? (Select TWO.)
 
 - [x] Planning the capacity for object storage
 - [x] Patching database engine on Amazon RDS DB instances
@@ -50,7 +50,7 @@ Which of the following are benefits of using the AWS Cloud? (Select TWO.)
 
 ***Solution 06***
 
-Which on-premises expense will be reduced if the company migrates their application to Amazon EC2? 
+Which on-premises expense will be reduced if the company migrates their application to Amazon EC2?
 
 - [x] Server hardware costs
 
@@ -74,26 +74,26 @@ Which of the following is an AWS Cloud architecture design principle?
 
 ***Solution 10***
 
-Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO.) 
+Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO.)
 
 - [x] Implement loose coupling.
 - [x] Design for scalability.
 
 ***Solution 11***
 
-A user wants to implement loose coupling in their application architecture. Which AWS service meets this requirement? 
+A user wants to implement loose coupling in their application architecture. Which AWS service meets this requirement?
 
 - [x] Amazon SQS
 
 ***Solution 12***
 
-Which of the following is the customer's responsibility under the AWS shared responsibility model? 
+Which of the following is the customer's responsibility under the AWS shared responsibility model?
 
 - [x] Patching the operating systems that were deployed on Amazon EC2 instances
 
 ***Solution 13***
 
-Under the shared responsibility model, which of the following are responsibilities of AWS? 
+Under the shared responsibility model, which of the following are responsibilities of AWS?
 
 - [x] Securing physical infrastructure
 
@@ -105,20 +105,20 @@ Which service enables risk auditing by continuously monitoring and logging API r
 
 ***Solution 15***
 
-Which of the following will enhance the security of access to the AWS Management Console? (Select TWO.) 
+Which of the following will enhance the security of access to the AWS Management Console? (Select TWO.)
 
 - [x] Multi-factor authentication (MFA)
 - [x] Complex password policies
 
 ***Solution 16***
 
-Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users? 
+Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
 
 - [x] AWS Identity and Access Management (IAM) policies
 
 ***Solution 17***
 
-Which of the following AWS Identity and Access Management (IAM) best practice helps protect an AWS account? 
+Which of the following AWS Identity and Access Management (IAM) best practice helps protect an AWS account?
 
 - [x] Use multi-factor authentication (MFA) to protect the AWS account root user. (IAM) policies
 
