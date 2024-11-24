@@ -15,4 +15,4 @@ This repository contains the solutions to the online course "Exam Prep: AWS Cert
 
 &nbsp;
 
-*1st Completion Date: Oct 26, 2024*&emsp;
+*1st Completion Date: Nov 24, 2024*&emsp;
