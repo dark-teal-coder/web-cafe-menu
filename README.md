@@ -4,7 +4,7 @@
 
 ## Repository Description
 
-xxx
+This repository contains the solutions to the online course "Exam Prep: AWS Certified Cloud Practitioner Foundations" provided by Amazon Web Services (AWS) in .md format.
 
 ## Course Information
 
