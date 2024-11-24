@@ -17,191 +17,312 @@ For type 1, start the solution with `- [x]`; for type 2, start each choice with 
 
 ***Solution 01***
 
-- [x] A list of instructions that the computer has to follow to reach a goal
+The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept in the AWS Cloud value proposition?
+
+- [x] Elasticity
 
 ***Solution 02***
 
-- [x] The rules of how to express things in that language
+What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO.) 
+
+- [x] AWS provides options to architect for high availability.
+- [x] AWS can scale resources to changing application demands.
 
 ***Solution 03***
 
-- [x] There’s not much difference, but scripts are usually simpler and shorter.
+AWS services can relieve a company's IT staff of which of the following IT tasks? (Select TWO.) 
+
+- [x] Planning the capacity for object storage
+- [x] Patching database engine on Amazon RDS DB instances
 
 ***Solution 04***
 
-Multiple answers:
+A user wants the ability to easily scale compute resources in and out, while only paying for the resources used. Which AWS Cloud architecture principle is this?
 
-- [x] Generating a sales report, split by region and product type
-- [x] Copying a file to all computers in a company
+- [x] Elasticity
 
 ***Solution 05***
 
-- [x] The intended meaning or logic of coded statements
+Which of the following are benefits of using the AWS Cloud? (Select TWO.)
 
+- [x] Increased speed and agility
+- [x] Ability to deploy globally in minutes
 
+***Solution 06***
 
+Which on-premises expense will be reduced if the company migrates their application to Amazon EC2? 
 
+- [x] Server hardware costs
 
+***Solution 07***
 
+What does the AWS Simple Monthly Calculator provide?
 
-1. The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept in the AWS Cloud value proposition? 
-= Elasticity
+- [x] Estimated costs for an AWS Cloud architecture
 
-2. What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO.) 
-= AWS provides options to architect for high availability.
-= AWS can scale resources to changing application demands.
+***Solution 08***
 
-3. AWS services can relieve a company's IT staff of which of the following IT tasks? (Select TWO.) 
-= Planning the capacity for object storage
-= Patching database engine on Amazon RDS DB instances
+A company wants to use Amazon Elastic Compute Cloud (Amazon EC2) to deploy a global commercial application. The deployment solution should be built with the highest redundancy and fault tolerance. Based on this situation, the Amazon EC2 instances should be deployed:
 
-4. A user wants the ability to easily scale compute resources in and out, while only paying for the resources used. Which AWS Cloud architecture principle is this? 
-= Elasticity
+- [x] Across multiple Availability Zones in two AWS Regions
 
-5. Which of the following are benefits of using the AWS Cloud? (Select TWO.) 
-= Increased speed and agility
-= Ability to deploy globally in minutes
+***Solution 09***
 
-6. Which on-premises expense will be reduced if the company migrates their application to Amazon EC2? 
-= Server hardware costs
+Which of the following is an AWS Cloud architecture design principle?
 
-7. What does the AWS Simple Monthly Calculator provide? 
-= Estimated costs for an AWS Cloud architecture
+- [x] Implement loose coupling.
 
-8. A company wants to use Amazon Elastic Compute Cloud (Amazon EC2) to deploy a global commercial application. The deployment solution should be built with the highest redundancy and fault tolerance. Based on this situation, the Amazon EC2 instances should be deployed: 
-= Across multiple Availability Zones in two AWS Regions
+***Solution 10***
 
-9. Which of the following is an AWS Cloud architecture design principle? 
-= Implement loose coupling.
+Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO.) 
 
-10. Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO.) 
-= Implement loose coupling.
-= Design for scalability.
+- [x] Implement loose coupling.
+- [x] Design for scalability.
 
-11. A user wants to implement loose coupling in their application architecture. Which AWS service meets this requirement? 
-= Amazon SQS
+***Solution 11***
 
-12. Which of the following is the customer's responsibility under the AWS shared responsibility model? 
-= Patching the operating systems that were deployed on Amazon EC2 instances
+A user wants to implement loose coupling in their application architecture. Which AWS service meets this requirement? 
 
-13. Under the shared responsibility model, which of the following are responsibilities of AWS? 
-= Securing physical infrastructure
+- [x] Amazon SQS
 
-14. Which service enables risk auditing by continuously monitoring and logging API requests to resources in an account, including user actions in the AWS Management Console and AWS SDKs? 
-= AWS CloudTrail
+***Solution 12***
 
-15. Which of the following will enhance the security of access to the AWS Management Console? (Select TWO.) 
-= Multi-factor authentication (MFA)
-= Complex password policies
+Which of the following is the customer's responsibility under the AWS shared responsibility model? 
 
-16. Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users? 
-= AWS Identity and Access Management (IAM) policies
+- [x] Patching the operating systems that were deployed on Amazon EC2 instances
 
-17. Which of the following AWS Identity and Access Management (IAM) best practice helps protect an AWS account? 
-= Use multi-factor authentication (MFA) to protect the AWS account root user. (IAM) policies
+***Solution 13***
 
-18. Which AWS service or feature can be used to prevent SQL injection attacks? 
-= AWS WAF
+Under the shared responsibility model, which of the following are responsibilities of AWS? 
 
-19. Where can users find a catalog of AWS-recognized providers of third-party security solutions? 
-= AWS Marketplace
+- [x] Securing physical infrastructure
 
-20. Which components are required to build a successful site-to-site VPN connection on AWS? (Select TWO.) 
-= Customer gateway
-= Virtual private gateway
+***Solution 14***
 
-21. Which aspect of AWS infrastructure enables global deployment of compute and storage? 
-= Regions
+Which service enables risk auditing by continuously monitoring and logging API requests to resources in an account, including user actions in the AWS Management Console and AWS SDKs?
 
-22. What can AWS edge locations be used for? (Select TWO.) 
-= Delivering content closer to users
-= Reducing the load on EC2 based web servers
+- [x] AWS CloudTrail
 
-23. What is a characteristic of Amazon S3 Cross-Region Replication? 
-= S3 buckets configured for Cross-Region Replication can be owned by a single AWS account or by different accounts.
+***Solution 15***
 
-24. Which AWS services will support data replication across Regions? (Select TWO.) 
-= Amazon S3
-= Amazon Relational Database Service
+Which of the following will enhance the security of access to the AWS Management Console? (Select TWO.) 
 
-25. Which AWS service can MOST efficiently import exabytes of data to the AWS Cloud from an on-premises environment? 
-= AWS Snowmobile
+- [x] Multi-factor authentication (MFA)
+- [x] Complex password policies
 
-26. Which of the following are benefits of running a database on Amazon RDS compared to an on-premises database? (Select TWO.) 
-= Amazon RDS provides backups by default.
-= Amazon RDS database compute capacity can be easily scaled.
+***Solution 16***
 
-27. Which AWS service runs containers without needing to provision and manage Amazon EC2 instances? 
-= AWS Fargate
+Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users? 
 
-28. Which of the following AWS services are serverless? (Select TWO.) 
-= AWS Lambda
-= Amazon API Gateway
+- [x] AWS Identity and Access Management (IAM) policies
 
-29. A user has petabytes of data to migrate to AWS from an area where high-speed network connections are not possible. Which service is the FASTEST way to transfer the data? 
-= AWS Snow Family
+***Solution 17***
 
-30. Which AWS compute service is serverless? 
-= AWS Lambda
+Which of the following AWS Identity and Access Management (IAM) best practice helps protect an AWS account? 
 
-31. Which AWS service helps customers collect, process, and analyze real-time streaming data from sources such as operating logs, financial transactions, and social media feeds? 
-= Amazon Kinesis
+- [x] Use multi-factor authentication (MFA) to protect the AWS account root user. (IAM) policies
 
-32. Which of the following is an AWS database service that provides virtually unlimited throughput and scale?  
-= Amazon DynamoDB
+***Solution 18***
 
-33. Which AWS service or feature allows a company to visualize, understand, and manage AWS costs and usage over time? 
-= AWS Cost Explorer
+Which AWS service or feature can be used to prevent SQL injection attacks?
 
-34. A company is considering migrating their applications from their on-premises data centers to the AWS Cloud. How could this decision lower the company's Total Cost of Ownership (TCO) of their applications? 
-= Using the AWS Cloud eliminates the need for large capital expenditures
+- [x] AWS WAF
 
-35. A company is using the AWS CLI and programmatic access of Amazon RDS resources from its on-premises network. What is a mandatory requirement in this scenario? 
-= Using an AWS access key and a secret key
+***Solution 19***
 
-36. A company is running a production workload on AWS. Which AWS Support plan will provide the company with technical support within 15 minutes of a user opening a case concerning a critical service interruption? 
-= Enterprise Support
+Where can users find a catalog of AWS-recognized providers of third-party security solutions?
 
-37. What technology enables compute capacity to adjust as loads change? 
-= Automatic scaling
+- [x] AWS Marketplace
 
-38. A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail. Which AWS service will provide this capability? 
-= AWS Key Management Service (AWS KMS)
+***Solution 20***
 
-39. Which of the following are features of Amazon CloudWatch Logs? (Select TWO.) 
-= Real-time monitoring
-= Adjustable retention
+Which components are required to build a successful site-to-site VPN connection on AWS? (Select TWO.)
 
-40. Which AWS Identity and Access Management (IAM) feature allows developers to access Amazon S3 through the AWS CLI? 
-= Access keys
+- [x] Customer gateway
+- [x] Virtual private gateway
 
-41. Which of the following services will automatically scale with an expected increase in web traffic? 
-= Elastic Load Balancing
+***Solution 21***
 
-42. Which AWS Support plan provides access to architectural and operational reviews, as well as 24/7 access to senior cloud support engineers through email, online chat, and phone? 
-= Enterprise Support
+Which aspect of AWS infrastructure enables global deployment of compute and storage?
 
-43. Which of the following Amazon EC2 pricing models allows customers to use existing server-bound software licenses? 
-= Dedicated Hosts
+- [x] Regions
 
-44. A company has an application that only needs to run for 2 hours at any time during a day. Which Amazon EC2 instance type will be MOST cost-effective for this application? 
-= Spot Instances
+***Solution 22***
 
-45. How can Amazon EC2 Reserved Instances be shared across multiple AWS accounts? 
-= AWS Organizations consolidated billing
+What can AWS edge locations be used for? (Select TWO.)
 
-46. How can one AWS account use Reserved Instances from another AWS account? 
-= By using AWS Organizations consolidated billing
+- [x] Delivering content closer to users
+- [x] Reducing the load on EC2 based web servers
 
-47. Which tool can only be used to track AWS usage and estimated charges related to it? 
-= Cost Explorer
+***Solution 23***
 
-48. A user has underutilized on-premises resources. Which AWS Cloud concept can BEST address this issue?  
-= Elasticity
+What is a characteristic of Amazon S3 Cross-Region Replication?
 
-49. Users report latency when they connect to a website with a global customer base. Which AWS service will improve the customer experience by reducing latency? 
-= Amazon CloudFront
+- [x] S3 buckets configured for Cross-Region Replication can be owned by a single AWS account or by different accounts.
 
-50. Which AWS services decrease network latency for global users of an application that is hosted in the AWS Cloud? (Select TWO.) 
-= Amazon CloudFront
-= AWS Global Accelerator
+***Solution 24***
+
+Which AWS services will support data replication across Regions? (Select TWO.)
+
+- [x] Amazon S3
+- [x] Amazon Relational Database Service
+
+***Solution 25***
+
+Which AWS service can MOST efficiently import exabytes of data to the AWS Cloud from an on-premises environment?
+
+- [x] AWS Snowmobile
+
+***Solution 26***
+
+Which of the following are benefits of running a database on Amazon RDS compared to an on-premises database? (Select TWO.)
+
+- [x] Amazon RDS provides backups by default.
+- [x] Amazon RDS database compute capacity can be easily scaled.
+
+***Solution 27***
+
+Which AWS service runs containers without needing to provision and manage Amazon EC2 instances?
+
+- [x] AWS Fargate
+
+***Solution 28***
+
+Which of the following AWS services are serverless? (Select TWO.)
+
+- [x] AWS Lambda
+- [x] Amazon API Gateway
+
+***Solution 29***
+
+A user has petabytes of data to migrate to AWS from an area where high-speed network connections are not possible. Which service is the FASTEST way to transfer the data?
+
+- [x] AWS Snow Family
+
+***Solution 30***
+
+Which AWS compute service is serverless?
+
+- [x] AWS Lambda
+
+***Solution 31***
+
+Which AWS service helps customers collect, process, and analyze real-time streaming data from sources such as operating logs, financial transactions, and social media feeds?
+
+- [x] Amazon Kinesis
+
+***Solution 32***
+
+Which of the following is an AWS database service that provides virtually unlimited throughput and scale?  
+
+- [x] Amazon DynamoDB
+
+***Solution 33***
+
+Which AWS service or feature allows a company to visualize, understand, and manage AWS costs and usage over time?
+
+- [x] AWS Cost Explorer
+
+***Solution 34***
+
+A company is considering migrating their applications from their on-premises data centers to the AWS Cloud. How could this decision lower the company's Total Cost of Ownership (TCO) of their applications?
+
+- [x] Using the AWS Cloud eliminates the need for large capital expenditures
+
+***Solution 35***
+
+A company is using the AWS CLI and programmatic access of Amazon RDS resources from its on-premises network. What is a mandatory requirement in this scenario?
+
+- [x] Using an AWS access key and a secret key
+
+***Solution 36***
+
+A company is running a production workload on AWS. Which AWS Support plan will provide the company with technical support within 15 minutes of a user opening a case concerning a critical service interruption?
+
+- [x] Enterprise Support
+
+***Solution 37***
+
+What technology enables compute capacity to adjust as loads change?
+
+- [x] Automatic scaling
+
+***Solution 38***
+
+A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail. Which AWS service will provide this capability?
+
+- [x] AWS Key Management Service (AWS KMS)
+
+***Solution 39***
+
+Which of the following are features of Amazon CloudWatch Logs? (Select TWO.)
+
+- [x] Real-time monitoring
+- [x] Adjustable retention
+
+***Solution 40***
+
+Which AWS Identity and Access Management (IAM) feature allows developers to access Amazon S3 through the AWS CLI?
+
+- [x] Access keys
+
+***Solution 41***
+
+Which of the following services will automatically scale with an expected increase in web traffic?
+
+- [x] Elastic Load Balancing
+
+***Solution 42***
+
+Which AWS Support plan provides access to architectural and operational reviews, as well as 24/7 access to senior cloud support engineers through email, online chat, and phone?
+
+- [x] Enterprise Support
+
+***Solution 43***
+
+Which of the following Amazon EC2 pricing models allows customers to use existing server-bound software licenses?
+
+- [x] Dedicated Hosts
+
+***Solution 44***
+
+A company has an application that only needs to run for 2 hours at any time during a day. Which Amazon EC2 instance type will be MOST cost-effective for this application?
+
+- [x] Spot Instances
+
+***Solution 45***
+
+How can Amazon EC2 Reserved Instances be shared across multiple AWS accounts?
+
+- [x] AWS Organizations consolidated billing
+
+***Solution 46***
+
+How can one AWS account use Reserved Instances from another AWS account?
+
+- [x] By using AWS Organizations consolidated billing
+
+***Solution 47***
+
+Which tool can only be used to track AWS usage and estimated charges related to it?
+
+- [x] Cost Explorer
+
+***Solution 48***
+
+A user has underutilized on-premises resources. Which AWS Cloud concept can BEST address this issue?
+
+- [x] Elasticity
+
+***Solution 49***
+
+Users report latency when they connect to a website with a global customer base. Which AWS service will improve the customer experience by reducing latency?
+
+- [x] Amazon CloudFront
+
+***Solution 50***
+
+Which AWS services decrease network latency for global users of an application that is hosted in the AWS Cloud? (Select TWO.)
+
+- [x] Amazon CloudFront
+- [x] AWS Global Accelerator
