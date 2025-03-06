@@ -35,6 +35,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    /* Reduce the vertical space between the H2 elements and their associated icons */
+    margin-top: -25px;
 }
 
 hr {
