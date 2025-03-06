@@ -8,7 +8,7 @@
 
 - <ins>Website Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2025-03-06
-- <ins>Website URL</ins>: 
+- <ins>Website URL</ins>: https://dark-teal-coder.github.io/web-cafe-menu/
 
 ## Project
 
