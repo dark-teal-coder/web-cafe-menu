@@ -22,7 +22,7 @@ h1, h2, p {
     text-align: center;
 }
 
-.menu {
+div.menu {
     width: 80%;
     background-color: burlywood;
     margin-left: auto;
