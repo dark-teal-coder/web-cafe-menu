@@ -45,7 +45,7 @@ hr {
     border-color: brown;
 }
 
-.bottom-line {
+hr.bottom-line {
     margin-top: 25px;
 }
 
