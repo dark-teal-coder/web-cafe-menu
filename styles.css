@@ -60,7 +60,7 @@ article.item p {
     font-size: 18px;
 }
 
-.flavor, .dessert {
+p.flavor, p.dessert {
     text-align: left;
     width: 75%;
 }
