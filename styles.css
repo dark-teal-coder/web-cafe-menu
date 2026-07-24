@@ -65,7 +65,7 @@ p.flavor, p.dessert {
     width: 75%;
 }
 
-.price {
+p.price {
     text-align: right;
     width: 25%;
 }
@@ -76,7 +76,7 @@ footer {
     font-size: 14px;
 }
 
-.address {
+p.address {
     margin-bottom: 5px;
 }
 
