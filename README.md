@@ -12,7 +12,7 @@
 
 ## Project
 
-- **Title**: *English Sentence Patterns Website*
+- **Title**: *Cafe Menu*
 - **Difficulty**:
   - [ ] Beginner
   - [x] Intermediate
